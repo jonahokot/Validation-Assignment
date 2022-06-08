@@ -1,0 +1,14 @@
+.container {
+    padding: 50px;
+}
+li {
+    list-style-type: none;
+    margin: 10px 0;
+}
+ul {
+    font-size: 14px;
+}
+input {
+    border-style: solid;
+    border-radius: 5px;
+}
